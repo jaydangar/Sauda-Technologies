@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206381863000",
+    "firebase_url": "https://sauda-technology.firebaseio.com",
+    "project_id": "sauda-technology",
+    "storage_bucket": "sauda-technology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206381863000:android:ae279c92b6e1aae3403a2d",
+        "android_client_info": {
+          "package_name": "com.example.Game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206381863000-v0tbjptggi9a2qtuqcncit956g3n4k92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Game",
+            "certificate_hash": "e528da79a7cbafa0557e24b1a3f28302cc024e06"
+          }
+        },
+        {
+          "client_id": "206381863000-j2967t0utl04airc22befrno691bmcsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOx9aBcFyeMC2CllJHHqBRCyCTdEWbZNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206381863000-j2967t0utl04airc22befrno691bmcsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
